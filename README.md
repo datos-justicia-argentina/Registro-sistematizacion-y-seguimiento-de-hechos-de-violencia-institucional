@@ -31,11 +31,9 @@ Recursos
 
 -   **Descripción:** datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.
 
--   **Formato:** CSV
+-   **Formato:** CSV delimitado por comas
 
 -   **Rango temporal:** -
-
--   **Fecha de Actualización:** 19/09/2016
 
 #### Campos del recurso
 
