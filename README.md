@@ -41,7 +41,7 @@ Recursos
 
 -   **area (string):** Área que recibió la denuncia
 
--   **Organismo de origen (string):** refiere a los Organismos Estatales que pueden haber derivado una presentación a la SDH referida a hechos y/o situaciones de violencia institucional.
+-   **organismo_origen (string):** refiere a los Organismos Estatales que pueden haber derivado una presentación a la SDH referida a hechos y/o situaciones de violencia institucional.
 
 -   **via_acceso (string):** Modo en que ingresó la denuncia (comunicación telefónica, presentación personal, derivación de otros organismos del Estado, correo electrónico, correo postal, noticia web)
 
