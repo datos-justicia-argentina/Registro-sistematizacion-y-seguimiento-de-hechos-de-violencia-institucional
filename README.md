@@ -1,81 +1,75 @@
-Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional
-============================================================================
+Seguimiento de hechos de violencia institucional
+================================================
 
-El registro analiza las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos. Este objetivo general se concretiza al identificar, describir y analizar los hechos y/o situaciones que involucren violaciones a los derechos humanos por parte de funcionarios/as pertenecientes a las fuerzas de seguridad, fuerzas armadas, personal penitenciario y efectores de salud en contextos de restricción de libertad y/o autonomía..
+En este conjunto de datos se detallan la recopilación de datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.
 
 Características
 ---------------
 
--   **Fecha de Publicación:** 01/09/2016
+-   **Fecha de Publicación:** 23/09/2016
 
--   **Recurso:** Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
+-   **Recursos:** Seguimiento de hechos de violencia institucional
 
--   **Tags o Etiquetas:** violencia, violencia institucional.
+-   **Tags o Etiquetas:** violencia; violencia física; violencia psíquica; violencia género; violencia salud; alojamiento; situación de detención; situación de tránsito; situación de internación; situaciones de Formación, Entrenamiento y/o Rehabilitación;
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de los Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional.
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional.
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de los Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional.
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional.
 
--   **Responsable:** Dirección Nacional de Políticas contra la Violencia Institucional.
+-   **Responsable:** Dirección Nacional de Políticas contra la Violencia Institucional
 
--   **Grupos:** Derechos Humanos.
+-   **Grupos:** Derechos Humanos
 
--   **Frecuencia de Actualización:** Trimestral.
+-   **Frecuencia de Actualización:** Mensual
 
 Recursos
 --------
 
-### Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional
+### Seguimiento de hechos de violencia institucional
 
--   **Nombre:** registro-de-violencia-institucional.csv.
+-   **Nombre:** violencia-institucional.csv
 
--   **Descripción:** Información sobre la expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos..
+-   **Descripción:** datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.
 
--   **Formato:** CSV.
+-   **Formato:** CSV
 
 -   **Rango temporal:** -
 
+-   **Fecha de Actualización:** 19/09/2016
+
 #### Campos del recurso
 
--   **area\_recepcion\_SDH (string):** Área de la Secretaria de Derechos Humanos que ha recibido la presentación (Centro de Denuncias; Jurídico Nacional; Jurídico Internacional; Pronalci; Grupos vulnerables; Salud mental; Ulloa; Otros).
+-   **area (string):** Área que recibió la denuncia
 
--   **organismo\_origen (string):** refiere a los Organismos Estatales que pueden haber derivado una presentación a la SDH referida a hechos y/o situaciones de violencia institucional.
+-   **Organismo de origen (string):** refiere a los Organismos Estatales que pueden haber derivado una presentación a la SDH referida a hechos y/o situaciones de violencia institucional.
 
--   **via\_recepción (string)**: Indica la modalidad de ingreso de la presentación, puede ser telefónica, personal, e-mail, internet/redes, carta, prensa, otros.
+-   **via_acceso (string):** Modo en que ingresó la denuncia (comunicación telefónica, presentación personal, derivación de otros organismos del Estado, correo electrónico, correo postal, noticia web)
 
--   **Anio\_hecho (string)**: Año en que sucedió el hecho.
+-   **anio (int):** Año en el que ingresó la denuncia y se da de alta la actuación
 
--   **provincia (string)**: Provincia en la que sucedió el hecho.
+-   **provincia (string):** se registra la provincia en la que sucedió el hecho.
 
--   **situación\_contexto (string):** el contexto de restricción de autonomía y/o libertad - da cuenta de entornos, marcos y/o tramas de estructuración de relaciones sociales en la que es posible observar el despliegue de las prácticas asociadas a la configuración de un hecho como violencia institucional:
+-   **contexto (string):** da cuenta de entornos, marcos y/o tramas de estructuración de relaciones sociales en la que es posible observar el despliegue de las prácticas asociadas a la configuración de un hecho como violencia institucional
 
-    -   *situaciones de tránsito* (Espacio Público; Medios de transporte público; Móviles y medios de transporte de FFSS; Móviles y medios de transporte para la Atención de la Salud; Paradores para Personas en Situación de Calle);
+-   **contexto1 (string):** Específica el entorno y/o marco en el que es posible observar el despliegue de las prácticas asociadas a la configuración de un hecho como violencia institucional
 
-    -   *situaciones de detención* (Centros de Alojamiento para Personas Menores de Edad, Centros de Atención Preventiva; Centros de detención previos al Juicio; Comisaría; Domicilio Particular; Instalaciones de la Gendarmería Nacional; Instalaciones de la Policía de Seguridad Aeroportuaria; Instalaciones de la Prefectura Naval Argentina; Lugar no Identificado; Penal/Complejo Penitenciario);
+-   **circunstancia (string):** refieren a los condicionamientos impuestos por el contexto del hecho y/o dinámica de las instituciones, cuya regulación resulta externa a las personas y que las posicionan en condiciones de especial desprotección frente a los agentes y/o funcionarios públicos.
 
-    -   *situaciones de internación* (Establecimiento de Internación Geriátrica; Establecimiento de Rehabilitación de Adicciones; Establecimiento de Salud Mental; Hogares para Personas con Discapacidad; Hospital General);
+-   **alojamiento (string):** da cuenta de aquellos hechos y/o situaciones relativas al hábitat y las condiciones de alojamiento en distintos ámbitos de restricción de autonomía y/o libertad en las que las/os personas son alojadas, respecto a las condiciones de habitabilidad y/o salubridad.
 
-    -   *situaciones de formación, entrenamiento y/o rehabilitación* (Centros de día, Escuelas de Formación Fuerzas Nacionales; Escuelas de Formación Fuerzas Provinciales; Instalaciones de las Fuerzas Armadas);
+-   **violencia_fisica (string):** da cuenta de aquellos hechos y/o situaciones en los que las prácticas violentas se expresan sobre la integridad física de las personas sometidas a regímenes de restricción de autonomía y/o libertad.
 
--   **circunstancias (string)**: Refieren a los condicionamientos impuestos por el contexto del hecho y/o dinámica de las instituciones, cuya regulación resulta externa a las personas y que las posicionan en condiciones de especial desprotección frente a los agentes y/o funcionarios públicos (Allanamiento; Circulación por la unidad/establecimiento; Examen Médico; Ingreso/Admisión; Motines o riñas; Reclamo ante las autoridades; Recuentos; Reintegros de pabellón/celda/habitación; Requisas personales/ de pertenencias/ de pabellón/ a familiares; Resguardo físico; Sanción; Traslados; Visitas; Otros (especificar).
+-   **violencia_psiquica (string):** da cuenta de aquellos hechos y/o situaciones en los que las prácticas violentas atentan contra la integridad y salud mental de las personas sometidas a regímenes de restricción de autonomía y/o libertad.
 
--   **practicas\_denunciadas (string)**: Prácticas que pueden ser consideradas violatorias de derechos humanos y que, al ser cometidos por el conjunto de agentes y/o funcionarios públicos seleccionados en contextos de restricción de autonomía y/o libertad, constituyen hechos y/o situaciones de violencia institucional. De la misma forma, las prácticas conexas como “Irregularidades Administrativas” e “Irregularidades Judiciales”, bajo la forma de acciones u omisiones, constituyen por sí o tienen como resultado, el encubrimiento y la impunidad respecto de la puesta en práctica de cualquier forma de violencia sobre personas sometidas a regímenes de restricción de autonomía y/o libertad:
+-   **violencia_genero (string):** da cuenta de aquellos hechos y/o situaciones en los que las prácticas violentas tienen algún componente que a juicio de la víctima o del/la denunciante involucra alguna forma de violencia de género.
 
-    -   *Alojamiento/Detención* (Destrucción de pertenencias; Mala Alimentación; Malas condiciones de alojamiento (higiene); malas condiciones de alojamiento (infraestructura); Negación de toda intimidad; Robo de pertenencias; Segregación/Confinamiento);
+-   **violencia_salud (string):** da cuenta de las modalidades que adopta la violencia por la inadecuada atención médica, sanitaria y terapéutica.
 
-    -   *Violencia Psíquica/Psicológica* (Alejamiento de Vínculos; Ablandamiento; Amenazas; Amenazas de connotación sexual/ de género; Disparos intimidatorios; Extorsión, forzamiento de la conducta, incitación a la violencia; Hostigamiento; Restricción injustificada de contacto; Restricción injustificada derechos al trabajo y educación; Otras formas de maltrato psicológico);
+-   **resumen_hecho (string):** se hace una breve descripción del hecho denunciado
 
-    -   *Violencia Física* (Asfixia; Caídas Provocadas; Desaparición; Golpes; Heridas Penetrantes; Muerte; Privación de la Libertad/Secuestro; Quemaduras; Sometimiento a corriente eléctrica; Sometimiento a posturas forzadas; Otras formas de maltrato físico);
+-   **descripcion_institucion (string):** determina a que Institución pertenece el responsable del hecho.
 
-    -   *Violencia de Género* (Desnudo parcial; Desnudo total; Esterilización forzada; Mutilación genital; Tratamiento psicológico por identidad de género; Violación; Violación Grupal; Otras formas de invasión física del cuerpo de connotación sexual);
-
-    -   *Salud/Medicación* (Aborto provocado; Denegación acceso atención aborto no punible/ postaborto; Denegación acceso atención médica; Denegación atención terapéutica; Examen físico por personal de otro sexo; Falta de administración de medicación; Internación involuntaria injustificada; Interrupción/ mala administración de medicación en tratamientos prolongados; Intervención médica forzada; Traslado por asistencia médica: incumplimiento, dilaciones, etc.; Uso excesivo de medicación; Otras prácticas).
-
--   **resumen\_hecho (string):** Breve descripción del hecho denunciado.
-
--   **responsabilidad\_institucional (string):** Determina a que Institución pertenece el responsable del hecho, por lo tanto, la Institución también es responsable.
+-   **establecimiento (string):** específica a que Institución pertenece el responsable del hecho.
 
 Notas
 -----
-
-La Unidad de Registro, Sistematización y Seguimiento de Hechos de Violencia Institucional se creó por [*Resolución MJyDH Nº 030/2014*](http://www.biblioteca.jus.gov.ar/RES_030_2014.pdf), en cumplimiento con la [*Ley Nº 26.827*](http://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/207202/norma.htm)
