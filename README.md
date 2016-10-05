@@ -6,7 +6,7 @@ En este conjunto de datos se detallan la recopilación de datos de seguimiento d
 Características
 ---------------
 
--   **Fecha de Publicación:** 23/09/2016
+-   **Fecha de Publicación:** 19/09/2016
 
 -   **Recursos:** Seguimiento de hechos de violencia institucional
 
