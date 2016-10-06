@@ -10,7 +10,7 @@ Características
 
 -   **Recursos:** Seguimiento de hechos de violencia institucional
 
--   **Tags o Etiquetas:** violencia; violencia física; violencia psíquica; violencia género; violencia salud; alojamiento; situación de detención; situación de tránsito; situación de internación; situaciones de Formación, Entrenamiento y/o Rehabilitación;
+-   **Tags o Etiquetas:** violencia; violencia física; violencia psíquica; violencia género; violencia salud; alojamiento; situación de detención; situación de tránsito; situación de internación; situaciones de Formación, entrenamiento y/o rehabilitación;
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional.
 
@@ -22,14 +22,14 @@ Características
 
 -   **Frecuencia de Actualización:** Trimestral
 
-Recursos
---------
+Recursos Disponibles
+--------------------
 
 ### Seguimiento de hechos de violencia institucional
 
--   **Nombre:** violencia-institucional.csv
+-   **Nombre del archivo:** violencia-institucional.csv
 
--   **Descripción:** datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.
+-   **Descripción del contenido:** datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.
 
 -   **Formato:** CSV delimitado por comas
 
