@@ -35,7 +35,7 @@ Recursos disponibles
 
 -   **Rango temporal:** -
 
-#### Campos del recurso
+### Campos del recurso
 
 -   **area (string):** Área que recibió la denuncia
 
