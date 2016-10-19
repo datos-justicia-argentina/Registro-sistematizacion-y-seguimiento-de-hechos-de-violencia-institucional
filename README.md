@@ -8,8 +8,6 @@ Características
 
 -   **Fecha de Publicación:** 19/09/2016
 
--   **Recursos:** Seguimiento de hechos de violencia institucional
-
 -   **Tags o Etiquetas:** violencia; violencia física; violencia psíquica; violencia género; violencia salud; alojamiento; situación de detención; situación de tránsito; situación de internación; situaciones de Formación, entrenamiento y/o rehabilitación
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
