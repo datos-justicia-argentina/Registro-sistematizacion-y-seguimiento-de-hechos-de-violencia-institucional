@@ -14,7 +14,7 @@ Características
 
 -   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
 
--   **Responsable:** Dirección Nacional de Políticas contra la Violencia Institucional
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
 
 -   **Grupo:** Derechos Humanos
 
