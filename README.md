@@ -35,19 +35,19 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **area (string):** Área que recibió la denuncia
+-   **area (string):** área que recibió la denuncia
 
 -   **organismo_origen (string):** refiere a los Organismos Estatales que pueden haber derivado una presentación a la SDH referida a hechos y/o situaciones de violencia institucional
 
--   **via_acceso (string):** Modo en que ingresó la denuncia (comunicación telefónica, presentación personal, derivación de otros organismos del Estado, correo electrónico, correo postal, noticia web)
+-   **via_acceso (string):** modo en que ingresó la denuncia (comunicación telefónica, presentación personal, derivación de otros organismos del Estado, correo electrónico, correo postal, noticia web)
 
--   **anio (int):** Año en el que ingresó la denuncia y se da de alta la actuación
+-   **anio (int):** año en el que ingresó la denuncia y se da de alta la actuación
 
 -   **provincia (string):** se registra la provincia en la que sucedió el hecho
 
 -   **contexto (string):** da cuenta de entornos, marcos y/o tramas de estructuración de relaciones sociales en la que es posible observar el despliegue de las prácticas asociadas a la configuración de un hecho como violencia institucional
 
--   **contexto1 (string):** Específica el entorno y/o marco en el que es posible observar el despliegue de las prácticas asociadas a la configuración de un hecho como violencia institucional
+-   **contexto1 (string):** específica el entorno y/o marco en el que es posible observar el despliegue de las prácticas asociadas a la configuración de un hecho como violencia institucional
 
 -   **circunstancia (string):** refieren a los condicionamientos impuestos por el contexto del hecho y/o dinámica de las instituciones, cuya regulación resulta externa a las personas y que las posicionan en condiciones de especial desprotección frente a los agentes y/o funcionarios públicos
 
