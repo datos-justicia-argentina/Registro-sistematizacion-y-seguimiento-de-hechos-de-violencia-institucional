@@ -63,8 +63,6 @@ Recursos disponibles
 
 -   **resumen_hecho (string):** se hace una breve descripción del hecho denunciado
 
--   **descripcion_institucion (string):** determina a que Institución pertenece el responsable del hecho
+-   **descripcion_institucion (string):** determina a qué Institución pertenece el responsable del hecho
 
--   **establecimiento (string):** específica a que Institución pertenece el responsable del hecho
-
-
+-   **establecimiento (string):** especifica a qué Institución pertenece el responsable del hecho
