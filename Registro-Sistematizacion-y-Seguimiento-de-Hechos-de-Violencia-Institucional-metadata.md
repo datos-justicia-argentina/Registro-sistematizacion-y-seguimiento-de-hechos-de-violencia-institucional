@@ -1,4 +1,4 @@
-Seguimiento de hechos de violencia institucional
+Seguimiento de Hechos de Violencia Institucional
 ================================================
 
 En este conjunto de datos se detallan la recopilación de datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.
