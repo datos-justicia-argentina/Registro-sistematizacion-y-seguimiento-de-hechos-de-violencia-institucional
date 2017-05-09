@@ -18,7 +18,7 @@ Características
 
 -   **Grupo:** Derechos Humanos
 
--   **Frecuencia de Actualización:** Trimestral
+-   **Frecuencia de Actualización:** Trimestralmente
 
 Recursos disponibles
 --------------------
