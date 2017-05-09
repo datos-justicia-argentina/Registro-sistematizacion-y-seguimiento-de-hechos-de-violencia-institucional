@@ -6,7 +6,7 @@ En este conjunto de datos se detallan la recopilación de datos de seguimiento d
 Características
 ---------------
 
--   **Fecha de Publicación:** 19/09/2016
+-   **Fecha de Primera Publicación:** 19/09/2016
 
 -   **Tags o Etiquetas:** violencia; violencia física; violencia psíquica; violencia género; violencia salud; alojamiento; situación de detención; situación de tránsito; situación de internación; situaciones de Formación, entrenamiento y/o rehabilitación
 
