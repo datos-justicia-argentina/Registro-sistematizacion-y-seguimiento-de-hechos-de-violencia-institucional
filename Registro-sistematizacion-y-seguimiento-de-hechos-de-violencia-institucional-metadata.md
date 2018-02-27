@@ -3,6 +3,8 @@ Seguimiento de hechos de violencia institucional
 
 En este conjunto de datos se detalla la recopilación de datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.
 
+http://datos.jus.gob.ar/dataset/unidad-de-registro-sistematizacion-y-seguimiento-de-hechos-de-violencia-institucional
+
 Características
 ---------------
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** violencia-institucional-AAAA-MM.csv
 
--   **Descripción del contenido:** datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos
+-   **Descripción del contenido:** se detalla la recopilación de datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
