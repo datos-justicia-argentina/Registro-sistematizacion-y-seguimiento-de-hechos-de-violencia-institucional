@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** hechos de violencia institucional desde el año 1988 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
