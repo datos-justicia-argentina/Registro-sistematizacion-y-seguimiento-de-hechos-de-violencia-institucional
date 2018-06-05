@@ -43,7 +43,7 @@ Recursos disponibles
 
 -   **via_acceso (string):** modo en que ingresó la denuncia (comunicación telefónica, presentación personal, derivación de otros organismos del Estado, correo electrónico, correo postal, noticia web)
 
--   **anio (int):** año en el que ingresó la denuncia y se da de alta la actuación
+-   **anio_hecho (int):** año en el que se produjo el hecho
 
 -   **provincia (string):** se registra la provincia en la que sucedió el hecho
 
@@ -62,8 +62,6 @@ Recursos disponibles
 -   **violencia_genero (string):** da cuenta de aquellos hechos y/o situaciones en los que las prácticas violentas tienen algún componente que a juicio de la víctima o del/la denunciante involucra alguna forma de violencia de género
 
 -   **violencia_salud (string):** da cuenta de las modalidades que adopta la violencia por la inadecuada atención médica, sanitaria y terapéutica
-
--   **resumen_hecho (string):** se hace una breve descripción del hecho denunciado
 
 -   **descripcion_institucion (string):** determina a qué Institución pertenece el responsable del hecho
 
