@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Seguimiento de hechos de violencia institucional - AAAA-MM
+### Seguimiento de hechos de violencia institucional - AAAAMM
 
--   **Nombre del archivo:** violencia-institucional-AAAA-MM.csv
+-   **Nombre del archivo:** violencia-institucional-AAAAMM.csv
 
 -   **Descripción del contenido:** se detalla la recopilación de datos de seguimiento de las formas de expresión de la violencia institucional sobre la base de las presentaciones, denuncias e informaciones recibidas en el ámbito de la Secretaría de Derechos Humanos.
 
