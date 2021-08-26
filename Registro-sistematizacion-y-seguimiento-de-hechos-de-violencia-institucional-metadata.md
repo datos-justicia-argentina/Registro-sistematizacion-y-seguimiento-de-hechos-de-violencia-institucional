@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** denuncias, derechos humanos, violación a los derechos humanos, violencia institucional
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Subsecretaría de Protección de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
 
 -   **Grupo:** Derechos Humanos
 
