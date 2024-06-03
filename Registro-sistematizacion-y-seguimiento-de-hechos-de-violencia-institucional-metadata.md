@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** denuncias, derechos humanos, violación a los derechos humanos, violencia institucional
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
+-   **Organización:** Ministerio de Justicia. Secretaría de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
+-   **Autor:** Ministerio de Justicia. Secretaría de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
+-   **Responsable:** Ministerio de Justicia. Secretaría de Derechos Humanos. Dirección Nacional de Políticas contra la Violencia Institucional
 
 -   **Grupo:** Derechos Humanos
 
@@ -80,4 +80,4 @@ Notas
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
